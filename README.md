@@ -4,21 +4,21 @@
 <h1 align="center">TCP-server-client-file-server</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/TCP-file-server?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/TCP-file-server?color=01518D">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/TCP-file-server?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/TCP-file-server?color=01518D">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/TCP-file-server?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/TCP-file-server?color=01518D">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/TCP-file-server?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/TCP-file-server?color=01518D" />
 </p>
 
 <p align="center">
 <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
+    src="https://img.shields.io/badge/Programming Language-%2300599b?style=for-the-badge&logo=C&logoColor=white"
     alt="Website Badge" />
 <img
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows 10&logoColor=white"
+    src="https://img.shields.io/badge/Linux-D5A72A?style=for-the-badge&logo=Linux&logoColor=white"
     alt="Website Badge" />
 </p>
 
