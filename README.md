@@ -54,10 +54,10 @@ This project is intended to showcase our knowledge learning about Neural Network
 
 
 # Tools Used / Development Environment
-- Python
+- C
 - VS Code
 - Terminal
-- Windows 10
+- Linux
 
 
 
@@ -65,19 +65,20 @@ This project is intended to showcase our knowledge learning about Neural Network
 
 # Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
-- [name]()
-- Professor. 
+- Professor. K.C. Wang
 
 
 
 
 
 # How to Set Up
-This project was implemented on our local machine inside of a virtual machine using:
+This project was implemented on my local machine inside of a virtual machine using:
 - Ubuntu Version 20.04.03 found at this [link](http://lt.releases.ubuntu.com/20.04.3/).
+> [!NOTE]
+> I had to use this version of Ubuntu but it is not required to run this codebase. 
 - Clone this repository 
-- Open terminal at the codebase `~.../ext2/Noah-Mitchell/`
-
+- Open terminal at the codebase `~.../TCP-file-server/client/` or `~.../TCP-file-server/server/`
+- Run my `mk` file to compile the codebase and run the a.out executable.
 
 
 
