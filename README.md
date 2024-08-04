@@ -66,6 +66,7 @@ A TCP server-client program for preforming file operations locally on the client
 - C
 - VS Code
 - Terminal
+- Ubuntu
 - Linux
 
 
