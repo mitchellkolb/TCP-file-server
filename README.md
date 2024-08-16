@@ -27,12 +27,12 @@
 A TCP server-client program for preforming file operations locally on the client side and over a network on the server side. This project involves designing and implementing a TCP server and client to perform specified file operations like pwd, cd, ls, and cp, while ensuring correct data transfer through user-level protocols.
 
 
-![project image](resources/image1.png)
+![project image](resources/tcp-gif.gif)
 
 <details>
 <summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
 
-[![Full Video Demo Here](https://img.youtube.com/vi/VidKEY/0.jpg)](https://www.youtube.com/watch?v=VidKEY)
+[![Full Video Demo Here](https://img.youtube.com/vi/rXgaHA0ePgw/0.jpg)](https://www.youtube.com/watch?v=rXgaHA0ePgw)
 
 </details>
 
